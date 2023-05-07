@@ -1,0 +1,5 @@
+Download Link: https://assignmentchef.com/product/solved-lab-06-flowchart
+<br>
+5/5 - (3 votes)
+
+Write a program that computes how many feet an object falls in 1 second, 2 seconds, etc., up to 12 seconds.First create a Raptor flowchart. For this assignment you will need to switch to intermediate mode.Your Raptor program should:1. Have a procedure called FallingDistance which has one input parameter, seconds, and one output parameter, distance.2. Compute the distance in feet an object falls using this formula: d = ½ gt2 (where g = 32.2)3. The main program should call FallingDistance within a loop which passes the values 1 through 12 as arguments.4. Print a table with seconds and falling distance in feet.Once your Raptor flowchart executes correctly, upload your .rap file. Make sure your name is ***** ***** flowchart in a comment.Sample Output (This program has no input)Seconds Distance================1 16.10002 64.40003 (###) ###-####4 (###) ###-####5 (###) ###-####6 (###) ###-####7 (###) ###-####8 1030.40009 1304.100010 161011 1948.100012 2318.4000
